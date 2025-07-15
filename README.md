@@ -208,7 +208,3 @@ If you find this project helpful, please consider:
 - 🔄 Sharing with fellow developers
 
 ---
-
-<div align="center">
-  <strong>Made With ❤️ & ⚡ By Dread</strong>
-</div>
