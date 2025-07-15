@@ -86,7 +86,7 @@ brew install --cask font-fira-code-nerd-font
 ### Build from Source
 
 ```bash
-git clone https://github.com/z3r0dr34d/Update.git
+git clone https://github.com/ZeroDread/Update.git
 cd Update
 cargo build --release
 ```
@@ -95,7 +95,7 @@ cargo build --release
 
 ```bash
 # Install directly from source
-cargo install --git https://github.com/z3r0dr34d/Update.git
+cargo install --git https://github.com/ZeroDread/Update.git
 
 # Or if you have the repo locally
 cargo install --path .
@@ -135,7 +135,7 @@ The application supports JSON configuration for customization:
 {
   "app_name": "System Update Manager",
   "version": "0.1.0",
-  "author": "z3r0dr34d"
+  "author": "ZeroDread"
 }
 ```
 
@@ -210,5 +210,5 @@ If you find this project helpful, please consider:
 ---
 
 <div align="center">
-  <strong>Made with ❤️ and ⚡ by z3r0dr34d</strong>
+  <strong>Made With ❤️ & ⚡ By Dread</strong>
 </div>
