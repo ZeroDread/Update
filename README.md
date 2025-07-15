@@ -1,4 +1,4 @@
-# 🚀 Update - System Update Manager
+# 🚀 Nudge - System Update Manager
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Rust-red.svg?style=for-the-badge&logo=rust">
@@ -7,7 +7,7 @@
 
 <br>
 
-**Update** is a blazing fast, interactive command-line application written in Rust that streamlines system maintenance tasks. With a beautiful, colorful interface and lightning-fast performance, it makes managing your development environment effortless.
+**Nudge** is a blazing fast, interactive command-line application written in Rust that streamlines system maintenance tasks. With a beautiful, colorful interface and lightning-fast performance, it makes managing your development environment effortless.
 
 ## ✨ Features
 
@@ -26,8 +26,8 @@
 
 ```
     +----------------------------------------------------------+
-    |                 UPDATE - System Manager                  |
-    |                      Built with Rust                     |
+    |                 Nudge - Update Manager                   |
+    |                     Built with Rust                      |
     +----------------------------------------------------------+
     
     Select tasks to execute:
@@ -84,7 +84,7 @@ brew install --cask font-fira-code-nerd-font
 ### Build from Source
 
 ```bash
-git clone https://github.com/ZeroDread/Update.git
+git clone https://github.com/ZeroDread/Nudge.git
 cd Update
 cargo build --release
 ```
@@ -93,7 +93,7 @@ cargo build --release
 
 ```bash
 # Install directly from source
-cargo install --git https://github.com/ZeroDread/Update.git
+cargo install --git https://github.com/ZeroDread/Nudge.git
 
 # Or if you have the repo locally
 cargo install --path .
@@ -105,10 +105,10 @@ cargo install --path .
 
 ```bash
 # Run the interactive menu
-./target/release/update
+./target/release/nudge
 
 # Or if installed via cargo
-update
+nudge
 ```
 
 ### Controls
