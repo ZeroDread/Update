@@ -1,16 +1,16 @@
 [package]
-name = "update"
+name = "nudge"
 version = "0.1.0"
-edition = "2021"
-authors = ["z3r0dr34d"]
-description = "A blazing fast interactive system update manager"
+edition = "2025"
+authors = ["ZeroDread"]
+description = "Blazing Fast Interactive System Update Manager"
 license = "MIT"
-repository = "https://github.com/z3r0dr34d/Update"
+repository = "https://github.com/ZeroDread/Nudge"
 keywords = ["cli", "update", "system", "interactive", "terminal"]
 categories = ["command-line-utilities"]
 
 [[bin]]
-name = "update"
+name = "nudge"
 path = "src/main.rs"
 
 [dependencies]
