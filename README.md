@@ -2,9 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Rust-red.svg?style=for-the-badge&logo=rust">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-macOS-lightgrey.svg?style=for-the-badge&logo=apple">
-  <img src="https://img.shields.io/badge/Terminal-Warp-orange.svg?style=for-the-badge">
 </div>
 
 <br>
@@ -79,7 +77,7 @@
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code-nerd-font
 
-# Or install manually from https://www.nerdfonts.com/
+# Install manually from https://www.nerdfonts.com/
 # Recommended fonts: FiraCode, JetBrains Mono, or Hack
 ```
 
@@ -141,7 +139,7 @@ The application supports JSON configuration for customization:
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+I welcome contributions! Here's how you can help:
 
 1. 🍴 Fork the repository
 2. 🌿 Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -206,5 +204,4 @@ If you find this project helpful, please consider:
 - 🐛 Reporting issues
 - 💡 Suggesting new features
 - 🔄 Sharing with fellow developers
-
 ---
