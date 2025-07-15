@@ -53,8 +53,8 @@ async fn main() -> Result<()> {
 fn display_header() {
     let title = r#"
     +----------------------------------------------------------+
-    |                 UPDATE - System Manager                  |
-    |                      Built with Rust                     |
+    |                 Nudge - System Manager                   |
+    |                     Built with Rust                      |
     +----------------------------------------------------------+
     "#;
     
