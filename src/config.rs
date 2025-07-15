@@ -24,7 +24,7 @@ impl Config {
         Config {
             app_name: "System Update Manager".into(),
             version: "0.1.0".into(),
-            author: "z3r0dr34d".into(),
+            author: "ZeroDread".into(),
         }
     }
 
