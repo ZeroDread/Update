@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Made%20with-Rust-red.svg?style=for-the-badge&logo=rust">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-macOS-lightgrey.svg?style=for-the-badge&logo=apple">
-  <img src="https://img.shields.io/badge/Terminal-Blazing%20Fast-orange.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Terminal-Warp-orange.svg?style=for-the-badge">
 </div>
 
 <br>
